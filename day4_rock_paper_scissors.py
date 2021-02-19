@@ -1,3 +1,7 @@
+'''
+I designed this game to be able to understand logical operators better and their uses
+'''
+
 rock = '''
     _______
 ---'   ____)
