@@ -1,5 +1,8 @@
-#This is a treasure island game. All a user needs to do is to play & win by following the instructions
+'''
+This is a treasure island game. All a user needs to do is to play & win by following the instructions
 
+On this project, I learnt how to implement some conditional statements and also draw a flowchart.
+'''
 print('''
 *******************************************************************************
           |                   |                  |                     |
