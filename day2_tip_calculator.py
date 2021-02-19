@@ -1,5 +1,8 @@
 '''
-#If the bill was $150.00, split between 5 people, with 12% tip. 
+The aim of this project is to split bills between people. 
+On this project I learnt how to use some arithmetic functions
+
+e.g If the bill was $150.00, split between 5 people, with 12% tip. 
 #Format the result to 2 decimal places = 33.60
 '''
 
